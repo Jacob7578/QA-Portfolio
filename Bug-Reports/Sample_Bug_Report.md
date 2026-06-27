@@ -65,18 +65,20 @@ Firefox works correctly.
 
 About the structure: Each section has its own task.
 
-Bug ID               - number of a bug
-Title                - short description of a problem
-Environment          - Where was the test done? (Chrome, Opera, Android, iOS)
-Severity             - How serious the bug is.
-Priority             - How fast should it be fixed.
-Preconditions        - What conditions must be met before the test.
-Steps to Reproduce   - Precise steps leading to the bug.
-Expected Result      - What should happen.
-Actual Result        - What has really happened.
-Reproducibility      - Is the bug occurring always?
-Attachments          - Screenshots, videos, logs.
-Notes                - Additional information.
+|Section | Purpose |
+| -------------------- | -------------------- |
+| Bug ID |               number of a bug |
+| Title |                short description of a problem |
+| Environment |          Where was the test conducted? (Chrome, Opera, Android, iOS) |
+| Severity |             How serious the bug is. |
+| Priority |             How fast should it be fixed. |
+| Preconditions |        What conditions must be met before the test. |
+| Steps to Reproduce |   Precise steps leading to the bug. |
+| Expected Result |      What should happen. |
+| Actual Result |        What has really happened. |
+| Reproducibility |      Is the bug occurring always? |
+| Attachments |          Screenshots, videos, logs. |
+| Notes |                Additional information.| 
 
 
 
