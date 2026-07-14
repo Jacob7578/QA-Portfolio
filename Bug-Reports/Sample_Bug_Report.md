@@ -83,3 +83,6 @@ About the structure: Each section has its own task.
 
 
 <img width="800" height="400" alt="bug-report instructions" src="https://github.com/user-attachments/assets/277f127b-6723-4c82-9c80-126cd3bd6164" />
+
+
+As there are many Bug Reports blueprints and attachments, I tried to use the most suitable approach for showing the core of it. With the most important modules.
